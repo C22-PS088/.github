@@ -8,7 +8,7 @@
 
 ### Members
 
-| Name                  | ID            | Path               | Github 
+| Name                  | ID            | Path               | Github                                              |
 | --------------------- |:-------------:|:------------------:|:---------------------------------------------------:|
 | Alvin Vigo Pratama    | A2268F2314    | Mobile Development | [alvinvigo](https://github.com/alvinvigo)           |
 | Andika Rifqi Maulana  | A2006F0618    | Mobile Development | [andika4140](https://github.com/andika4140)         |
