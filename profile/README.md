@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="400" src="/profile/img/landscape-01-01.png" />
+  <img align="center" width="400" src="/profile/img/landscape-01-01_small.png" />
 </p>
 <h1 align="center">Sa Lindungi</h1>
 <h2 align="center">Conservation, Education and Donation in One Application for Endangered Animals in Indonesia</h2>
