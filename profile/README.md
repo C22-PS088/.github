@@ -9,10 +9,10 @@
 ### Members
 
 | Name                  | ID            | Path               | Github 
-| --------------------- |:-------------:|:------------------:|:-------------------------------------------------------------------------:|
-| Alvin Vigo Pratama    | A2268F2314    | Mobile Development | [alvinvigo](https://github.com/orgs/C22-PS088/people/alvinvigo)           |
-| Andika Rifqi Maulana  | A2006F0618    | Mobile Development | [andika4140](https://github.com/orgs/C22-PS088/people/andika4140)         |
-| Dhandi Yudhit Yuniar  | M2131G1594    | Machine Learning   | [dhandiyy](https://github.com/orgs/C22-PS088/people/dhandiyy)             |
-| Farid Syauqi Nirwan   | M2006F0617    | Machine Learning   | [faridsyauqi](https://github.com/orgs/C22-PS088/people/faridsyauqi)       |
-| Nadya Nur Fadhila     | M2006F0514    | Machine Learning   | [nadyafadhila18](https://github.com/orgs/C22-PS088/people/nadyafadhila18) |
-| Setiawan Bayu Pratama | C2279H2405    | Cloud Computing    | [uyabayu999](https://github.com/orgs/C22-PS088/people/uyabayu999)         
+| --------------------- |:-------------:|:------------------:|:---------------------------------------------------:|
+| Alvin Vigo Pratama    | A2268F2314    | Mobile Development | [alvinvigo](https://github.com/alvinvigo)           |
+| Andika Rifqi Maulana  | A2006F0618    | Mobile Development | [andika4140](https://github.com/andika4140)         |
+| Dhandi Yudhit Yuniar  | M2131G1594    | Machine Learning   | [dhandiyy](https://github.com/dhandiyy)             |
+| Farid Syauqi Nirwan   | M2006F0617    | Machine Learning   | [faridsyauqi](https://github.com/faridsyauqi)       |
+| Nadya Nur Fadhila     | M2006F0514    | Machine Learning   | [nadyafadhila18](https://github.com/nadyafadhila18) |
+| Setiawan Bayu Pratama | C2279H2405    | Cloud Computing    | [uyabayu999](https://github.com/uyabayu999)         |   
