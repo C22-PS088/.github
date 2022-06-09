@@ -5,8 +5,8 @@
 <h2 align="center">Conservation, Education and Donation in One Application for Endangered Animals in Indonesia</h2>
 
 <h3 align="center">Bangkit 2022 Capstone Team: C22-PS088</h3>
-<h4 align="center">Members</h4>
-<p align="center">
+
+#### Members
 | Name                  | ID            | Path               | Github                                              |
 | --------------------- |:-------------:|:------------------:|:---------------------------------------------------:|
 | Alvin Vigo Pratama    | A2268F2314    | Mobile Development | [alvinvigo](https://github.com/alvinvigo)           |
@@ -15,4 +15,3 @@
 | Farid Syauqi Nirwan   | M2006F0617    | Machine Learning   | [faridsyauqi](https://github.com/faridsyauqi)       |
 | Nadya Nur Fadhila     | M2006F0514    | Machine Learning   | [nadyafadhila18](https://github.com/nadyafadhila18) |
 | Setiawan Bayu Pratama | C2279H2405    | Cloud Computing    | [uyabayu999](https://github.com/uyabayu999)         |   
-</p>
